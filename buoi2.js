@@ -49,3 +49,24 @@
 // console.log(teo == ti);
 // not a number (NaN)
 // console.log(undefined + 1)
+// var a = 5;
+// var b = "5";
+// console.log(a === b);
+
+//9 : câu điều kiện
+// var a = 5;
+// var b = 10;
+// if (a > b) {
+//   console.log("a lớn hơn b");
+// } else {
+//   console.log("b lớn hơn a");
+// }
+
+// var a = 5;
+// var b = 10;
+//6 giá trị tượng trưng cho fasle :0 , false, undefined, null, NaN, " ", ! cho số khác 0, 
+// if (a) {
+//   console.log("true");
+// } else {
+//   console.log("false");
+// }
