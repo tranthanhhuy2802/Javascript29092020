@@ -23,3 +23,9 @@
 //     age : 20
 // }
 // console.log(teo.name.a)
+// TH3 : function không return hoặc return;
+// function doSth(action) {
+//     console.log("thực hiện:" + action);
+//      return
+//   }
+//   doSth("chạy bộ")
