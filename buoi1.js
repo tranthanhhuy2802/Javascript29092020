@@ -1,6 +1,6 @@
 // khai bao bien
-// mutable: var (thay doi duoc)
-// immutable: const (khong thay doi dc)
+// mutable: var (thay đổi được)
+// immutable: const (không thay đổi được)
 // var a = 10;
 // const b = 10;
 

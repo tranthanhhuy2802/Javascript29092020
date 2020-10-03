@@ -1,5 +1,5 @@
 //4 Array
-const arrNames = ["Teo", "ti", "tun"];
+// const arrNames = ["Teo", "ti", "tun"];
 // console.log(arrNames[0]); //cách truy cập thông thường
 
 // const teo = {
@@ -29,3 +29,23 @@ const arrNames = ["Teo", "ti", "tun"];
 //   return
 // }
 // console.log(doSth("chạy bộ"))
+
+//7 Object method
+// const teo = {
+//   name: " nguyen van teo",
+//   age: 10,
+//   info: function () {
+//     console.log("Tên:" + this.name + ", " + "Tuổi:" + this.age);
+//   },
+// };
+// teo.info();
+
+// 8 : các phép so sánh
+// var a = "5";
+// var b = "10";
+// console.log(a > b);
+// var teo = { age: 10 };
+// var ti = { age: 10 };
+// console.log(teo == ti);
+// not a number (NaN)
+// console.log(undefined + 1)
