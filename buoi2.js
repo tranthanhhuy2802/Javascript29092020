@@ -64,7 +64,7 @@
 
 // var a = 5;
 // var b = 10;
-//6 giá trị tượng trưng cho fasle :0 , false, undefined, null, NaN, " ", ! cho số khác 0, 
+//6 giá trị tượng trưng cho fasle :0 , false, undefined, null, NaN, " ", ! cho số khác 0,
 // if (a) {
 //   console.log("true");
 // } else {
