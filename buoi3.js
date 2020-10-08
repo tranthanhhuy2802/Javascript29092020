@@ -88,33 +88,33 @@
 
 // 14 : callback là tham số
 
-function insochan() {
-  for (var i = 1; i < 100; i++) {
-    if (i % 2 === 0) {
-      console.log(i);
-    }
-  }
-}
-function insole() {
-  for (var i = 0; i < 100; i++) {
-    if (i % 2 === 1) {
-      console.log(i);
-    }
-  }
-}
-function insochia3du1() {
-  for (var i = 0; i < 100; i++) {
-    if (i % 3 === 1) {
-      console.log(i);
-    }
-  }
-}
-function insochinhphuong() {
-  for (var i = 0; i < 100; i++) {
-    if (Math.sqrt(i) % 1 === 0) {
-      console.log(i);
-    }
-  }
-}
-insochinhphuong();
+// function insochan() {
+//   for (var i = 1; i < 100; i++) {
+//     if (i % 2 === 0) {
+//       console.log(i);
+//     }
+//   }
+// }
+// function insole() {
+//   for (var i = 0; i < 100; i++) {
+//     if (i % 2 === 1) {
+//       console.log(i);
+//     }
+//   }
+// }
+// function insochia3du1() {
+//   for (var i = 0; i < 100; i++) {
+//     if (i % 3 === 1) {
+//       console.log(i);
+//     }
+//   }
+// }
+// function insochinhphuong() {
+//   for (var i = 0; i < 100; i++) {
+//     if (Math.sqrt(i) % 1 === 0) {
+//       console.log(i);
+//     }
+//   }
+// }
+// insochinhphuong();
 
